@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding in C, DSA, Game development 
 - 📫 You to reach me via my email the.ali.jan00@gmail.com 
-- ⚡ Fun fact: I can understand Arabic
+
 
 
 <!---
